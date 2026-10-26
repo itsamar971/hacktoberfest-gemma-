@@ -69,3 +69,10 @@ Most productivity apps are built for corporate task tracking. For ambitious wome
 ## Philosophy
 
 Growth should feel rewarding, not punishing. Bloom replaces pressure with progress you can see.
+
+---
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
