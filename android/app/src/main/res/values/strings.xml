@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloom</string>
+    <string name="todo_widget_name">Todo List</string>
+    <string name="travel_widget_name">Travel Map</string>
+    <string name="todo_widget_description">View your daily tasks</string>
+    <string name="travel_widget_description">Track your global adventures</string>
+</resources>
